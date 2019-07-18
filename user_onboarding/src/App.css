@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.formContainer {
+  text-align-last: center;
+}
+
+.onboardingForm {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 25%;
+}
+
+.termsCheckbox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tosLabel {
+  margin-right: 10px;
+}
+
+p {
+  font-size: 12px;
+  color: red;
+}
